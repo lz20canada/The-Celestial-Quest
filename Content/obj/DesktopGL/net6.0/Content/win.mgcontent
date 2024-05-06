@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/16474/Desktop/Conestoga_Spring2023/PROG2370 - Programming with Data/LZFinal/Content/win.wav</SourceFile>
+  <SourceTime>2023-12-11T21:27:13.9667984-05:00</SourceTime>
+  <DestFile>C:/Users/16474/Desktop/Conestoga_Spring2023/PROG2370 - Programming with Data/LZFinal/Content/bin/DesktopGL/Content/win.xnb</DestFile>
+  <DestTime>2023-12-11T21:27:56.6596387-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
